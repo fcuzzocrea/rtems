@@ -9,6 +9,7 @@ copyrights:
 default:
 - enabled-by:
   - riscv/beaglevfire
+  - riscv/mpfs64imac
   - riscv/mpfs64imafdc
   - riscv/noel64imac
   - riscv/noel64imafd

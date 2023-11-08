@@ -8,6 +8,8 @@ copyrights:
 default:
 - enabled-by: riscv/beaglevfire
   value: 187
+- enabled-by: riscv/mpfs64imac
+  value: 187
 - enabled-by: riscv/mpfs64imafdc
   value: 187
 - enabled-by: true

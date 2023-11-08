@@ -8,6 +8,8 @@ copyrights:
 default:
 - enabled-by: riscv/beaglevfire
   value: bsp/beaglevfire.h
+- enabled-by: riscv/mpfs64imac
+  value: bsp/mpfs-e51-dtb.h
 - enabled-by: riscv/mpfs64imafdc
   value: bsp/mpfs-u54-dtb.h
 - enabled-by: riscv/kendrytek210

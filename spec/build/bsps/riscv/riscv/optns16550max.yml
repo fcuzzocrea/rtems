@@ -12,6 +12,8 @@ default:
   value: null
 - enabled-by: riscv/beaglevfire
   value: 1
+- enabled-by: riscv/mpfs64imac
+  value: 1
 - enabled-by: riscv/mpfs64imafdc
   value: 1
 - enabled-by: true
