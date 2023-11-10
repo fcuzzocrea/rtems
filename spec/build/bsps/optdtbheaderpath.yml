@@ -9,7 +9,7 @@ default:
 - enabled-by: riscv/beaglevfire
   value: bsp/beaglevfire.h
 - enabled-by: riscv/mpfs64imafdc
-  value: bsp/mpfs-dtb.h
+  value: bsp/mpfs-u54-dtb.h
 - enabled-by: riscv/kendrytek210
   value: bsp/kendryte-k210-dtb.h
 - enabled-by: true
